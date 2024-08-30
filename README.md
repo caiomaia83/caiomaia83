@@ -1,6 +1,6 @@
 Prazer !! Sou o Caio Maia, estudante de computação 😁
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/caiomaia83)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/caiomaia83](https://www.linkedin.com/in/caiomaia83/))
 
 ![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=caiomaia83&show_icons=true&theme=radical)
 
